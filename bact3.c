@@ -1,5 +1,5 @@
 /* Bakteria | The_Bactery 2002-2012  MIT License
- * by Lukas 'luko' Veselovsky, <lukves@gmail.com>
+ * by Lukas 'luko' Veselovsky, <luuvki@gmail.com>
  */
 
 #include <stdio.h>
